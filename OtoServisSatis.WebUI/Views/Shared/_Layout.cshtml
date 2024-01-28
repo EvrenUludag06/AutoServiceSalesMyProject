@@ -1,0 +1,68 @@
+﻿<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>𝓤𝓵𝓾𝓭𝓪𝓰̆ 𝓖𝓪𝓵𝓮𝓻𝓲</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/OtoServisSatis.WebUI.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav style="background-color:darkblue" class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="text-white navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">𝓤𝓵𝓾𝓭𝓪𝓰̆ 𝓖𝓪𝓵𝓮𝓻𝓲</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-controller="Home" asp-action="Index">Anasayfa</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-controller="Home" asp-action="Privacy">Hakkımızda</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-controller="Arac" asp-action="List">Tüm Araçlarımız</a>
+                        </li>
+                    </ul>
+                </div>
+                <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search" asp-action="Ara" asp-controller="Arac" method="get">
+                    <input name="q" type="search" class="form-control form-control-dark text-bg-dark" placeholder="Ara..." aria-label="Search">
+                </form>
+                <div class="text-end">
+                    @if (Context.User.Identity.IsAuthenticated)
+                    {
+                        <a style="background-color:green" asp-controller="Account" asp-action="Index" class="btn btn-success me-2">Hesabım</a>
+                        <a style="background-color:darkred" asp-controller="Account" asp-action="Logout" class="btn btn-danger">Oturumu Kapat</a>
+                    }
+                    else
+                    {
+                        <a style="background-color:darkblue" asp-controller="Account" asp-action="Login" class="btn btn-primary me-2">Giriş</a>
+                        <a style="background-color:darkgoldenrod" asp-controller="Account" asp-action="Register" class="btn btn-warning">Kaydol</a>
+                    }
+                    
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        @Html.Raw(TempData["Message"])
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer style="background-color:darkblue" class="border-top footer text-muted">
+        <div class="container text-white">
+            &copy; 2023 - 𝓤𝓵𝓾𝓭𝓪𝓰̆ 𝓖𝓪𝓵𝓮𝓻𝓲 - <a asp-area="Admin" asp-controller="Main" asp-action="Index">Admin Paneli</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

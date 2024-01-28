@@ -1,0 +1,69 @@
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.deps.json
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.dll
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.pdb
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Data.dll
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Entities.dll
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Data.pdb
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Entities.pdb
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.AssemblyReference.cache
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.AssemblyInfoInputs.cache
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.AssemblyInfo.cs
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.CoreCompileInputs.cache
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.CopyComplete
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.dll
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\refint\OtoServisSatis.Service.dll
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.pdb
+C:\Users\EVREN\source\repos\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\ref\OtoServisSatis.Service.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.deps.json
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.pdb
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Data.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Entities.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Data.pdb
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Entities.pdb
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.AssemblyReference.cache
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.AssemblyInfoInputs.cache
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.AssemblyInfo.cs
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.CoreCompileInputs.cache
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.CopyComplete
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\refint\OtoServisSatis.Service.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.pdb
+C:\Users\EVREN\Desktop\Uludag Gallery\UludagGallery\OtoServisSatis.Service\obj\Debug\net8.0\ref\OtoServisSatis.Service.dll
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.deps.json
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.dll
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.pdb
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Data.dll
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Entities.dll
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Data.pdb
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Entities.pdb
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.AssemblyReference.cache
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.AssemblyInfoInputs.cache
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.AssemblyInfo.cs
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.CoreCompileInputs.cache
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.CopyComplete
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.dll
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\obj\Debug\net8.0\refint\OtoServisSatis.Service.dll
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.pdb
+C:\Users\mesut\Desktop\UludagGallery-main\OtoServisSatis.Service\obj\Debug\net8.0\ref\OtoServisSatis.Service.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.deps.json
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.pdb
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Data.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Entities.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Data.pdb
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Entities.pdb
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.AssemblyReference.cache
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.AssemblyInfoInputs.cache
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.AssemblyInfo.cs
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.CoreCompileInputs.cache
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.CopyComplete
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\obj\Debug\net8.0\refint\OtoServisSatis.Service.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.pdb
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\obj\Debug\net8.0\ref\OtoServisSatis.Service.dll
+C:\Users\EVREN\Desktop\Uludag Gallery\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.sourcelink.json
